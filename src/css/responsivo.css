@@ -1,0 +1,12 @@
+@media screen and (max-width: 750px) {
+    .profile{
+        width: 350px;
+    }
+    a {
+        width: 280px;
+    }
+    a:hover{
+        width: 300px;
+        font-size: 20px;
+    }
+}
